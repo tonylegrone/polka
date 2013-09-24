@@ -37,7 +37,7 @@ global_config "pull.rebase"             "true"
 
 global_config "push.default" "simple"
 
-global_config "alias.st"    "status --short --branch"
+global_config "alias.st"    "status"
 global_config "alias.co"    "checkout"
 global_config "alias.aa"    "add --all"
 global_config "alias.fa"    "fetch --all"
@@ -46,11 +46,14 @@ global_config "alias.ff"    "merge --ff-only"
 global_config "alias.b"     "branch"
 
 global_config "alias.ci"    "commit -v"
+global_config "alias.cp"    "commit -vp"
+global_config "alias.cpa"   "commit -vp --amend"
 global_config "alias.amend" "commit -v --amend"
 
 global_config "alias.di"    "diff"
 global_config "alias.dc"    "diff --cached"
 global_config "alias.dh1"   "diff HEAD~1"
+global_config "alias.dn"    "diff --name-only"
 
 global_config "alias.po"    "push origin"
 global_config "alias.pom"   "push origin master"
