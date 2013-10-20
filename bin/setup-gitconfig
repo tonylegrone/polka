@@ -70,7 +70,7 @@ global_config "alias.pum"   "push upstream master"
 
 HASH="%C(auto,yellow)%h%C(auto,reset)"
 RELATIVE_TIME="%C(auto,green)(%ar)%C(auto,reset)"
-AUTHOR="%C(auto,bold blue)<%an>%C(auto,reset)"
+AUTHOR="%C(auto,blue)<%an>%C(auto,reset)"
 REFS="%C(auto,red)%d%C(auto,reset)"
 SUBJECT="%s"
 
