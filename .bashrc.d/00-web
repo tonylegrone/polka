@@ -1,7 +1,7 @@
 # vim:set ft=sh sw=2 ts=2 expandtab:
 
 alias web="cd ~/Sites"
-alias dcc="echo 'CLEAR ALL THE CACHES!' && drush cc all"
+alias dcc="echo 'CLEAR ALL THE CACHES!' && cat ~/lib/hyperbole && drush cc all"
 alias dcron="echo 'Cronolizing...' && drush cron"
 alias ddl="drush dl"
 alias den="drush en"
