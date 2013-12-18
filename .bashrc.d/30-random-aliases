@@ -1,2 +1,3 @@
 alias engage="echo 'Make it so...' && play -n -c1 synth whitenoise band -n 100 20 band -n 50 20 gain +25  fade h 1 864000 1"
 alias r="rsync -a --stats --info=progress2"
+alias pomo="echo 'A WORKER IS YOU!' && thyme -d"
