@@ -85,6 +85,12 @@ set background=dark
 colorscheme base16-tomorrow
 syntax on
 
+" airline
+let g:airline_theme='badwolf'
+let g:airline_powerline_fonts=1
+let g:airline_section_c = '%<%t%m'
+let g:bufferline_echo = 0
+
 " Turn off error bells
 set noerrorbells
 set visualbell
