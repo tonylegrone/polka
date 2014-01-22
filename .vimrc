@@ -91,6 +91,9 @@ let g:airline_powerline_fonts=1
 let g:airline_section_c = '%<%t%m'
 let g:bufferline_echo = 0
 
+" Syntastic
+let g:syntastic_php_checkers=['php', 'phpmd']
+
 " Turn off error bells
 set noerrorbells
 set visualbell
