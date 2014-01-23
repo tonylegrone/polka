@@ -65,6 +65,7 @@ NeoBundle 'tpope/vim-surround'
 NeoBundle 'vim-scripts/matchit.zip'
 NeoBundle 'chriskempson/base16-vim'
 NeoBundle 'StanAngeloff/php.vim'
+NeoBundle 'embear/vim-localvimrc'
 
 " Check for missing packages
 NeoBundleCheck
@@ -93,6 +94,9 @@ let g:bufferline_echo = 0
 
 " Syntastic
 let g:syntastic_php_checkers=['php', 'phpmd']
+
+" localvimrc
+let g:localvimrc_whitelist = ".lvimrc"
 
 " Turn off error bells
 set noerrorbells
