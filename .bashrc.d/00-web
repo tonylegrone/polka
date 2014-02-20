@@ -1,3 +1,5 @@
+# vim:set ft=sh sw=2 ts=2 expandtab:
+
 alias web="cd ~/Sites"
 alias dcc="echo 'CLEAR ALL THE CACHES!' && drush cc all"
 alias dcron="echo 'Cronolizing...' && drush cron"
