@@ -84,7 +84,7 @@ set encoding=utf-8
 " Color
 set t_Co=256
 set background=dark
-colorscheme base16-tomorrow
+colorscheme base16-default
 syntax on
 
 " airline
