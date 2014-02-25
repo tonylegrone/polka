@@ -66,6 +66,7 @@ NeoBundle 'vim-scripts/matchit.zip'
 NeoBundle 'chriskempson/base16-vim'
 NeoBundle 'StanAngeloff/php.vim'
 NeoBundle 'embear/vim-localvimrc'
+NeoBundle 'lunaru/vim-twig'
 
 " Check for missing packages
 NeoBundleCheck
