@@ -70,3 +70,5 @@ fi
 prepend_path "${HOME}/bin"
 
 export EDITOR CLICOLOR HISTSIZE HISTCONTROL
+
+eval "$(fasd --init auto)"
