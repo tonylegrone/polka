@@ -71,4 +71,6 @@ prepend_path "${HOME}/bin"
 
 export EDITOR CLICOLOR HISTSIZE HISTCONTROL
 
+export SHARE_PREFIX="$(brew --prefix)"
+
 eval "$(fasd --init auto)"
