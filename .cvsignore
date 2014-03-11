@@ -22,7 +22,6 @@ Icon
 *.un~
 Session.vim
 .netrwhist
-.lvimrc
 
 ##############################
 # Emacs
