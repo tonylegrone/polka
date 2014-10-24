@@ -38,7 +38,6 @@ NeoBundle "sgur/unite-git_grep"
 NeoBundle "tpope/vim-abolish"
 NeoBundle "tpope/vim-eunuch"
 NeoBundle "tpope/vim-speeddating"
-NeoBundle "uggedal/go-vim"
 NeoBundle "vim-scripts/Gundo"
 NeoBundle 'Shougo/vimproc', {
       \ 'build' : {
