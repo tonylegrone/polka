@@ -196,3 +196,6 @@ nnoremap <localleader>/ :nohlsearch<CR>
 " Trim trailing whitespace
 nnoremap <localleader>ws m`:%s/\s\+$//e<CR>``
 
+" Toggle paste mode
+set pastetoggle=<leader>z
+
