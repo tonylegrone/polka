@@ -29,6 +29,7 @@ NeoBundle "golangtw/gocode.vim"
 NeoBundle "gregsexton/MatchTag"
 NeoBundle "hail2u/vim-css3-syntax"
 NeoBundle "juvenn/mustache.vim"
+NeoBundle "slim-template/vim-slim"
 NeoBundle 'kchmck/vim-coffee-script'
 NeoBundle "mattn/emmet-vim"
 NeoBundle "mattn/gist-vim"
